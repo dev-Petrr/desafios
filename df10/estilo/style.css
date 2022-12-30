@@ -59,7 +59,7 @@ header p {
   font-size: 1.2em;
   max-width: 400px;
   margin: auto;
-  margin-bottom: 30px;
+  padding-bottom: 30px;
   text-shadow: 1px 1px 1px black;
 }
 
